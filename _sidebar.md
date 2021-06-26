@@ -1,2 +1,5 @@
 * [Home](/)
-* [Network](network.md)
+* [Architecture Model](architecture.md)
+  * [Assembler Platform Architecture](architecture/platform.md)
+  * [Assembler Application Architecture](architecture/application.md)
+  * [Application Versioning](architecture/application.md)
