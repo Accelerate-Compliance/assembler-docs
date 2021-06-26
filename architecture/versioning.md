@@ -1,5 +1,7 @@
-# Versioning method
+# Application versioning
 
+
+### Semantic Versioning
 The Assembler platform is built to enable application owners to version each application environment separately. 
 
 New versions of the Assembler platform are released on a periodic basis. New versions are not automatically applied to individual environments and can be upgraded per application at time in which makes sense.
