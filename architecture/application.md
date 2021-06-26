@@ -1,3 +1,4 @@
+# Assembler Application Architecture
 Assembler applications require a variety of components for each application in order to function correctly. Each of these components are created automatically by the *Assembler Cluster* and can be scaled independently (horizontally or vertically) as required.
 
 These components are created and managed automatically by the *Assembler Cluster* and do not require manual deployments or updates.

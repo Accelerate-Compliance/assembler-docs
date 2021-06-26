@@ -1,3 +1,4 @@
+# Assembler Platform Architecture
 Assembler as a platform is comprised of four major components, each with their own sub-components. 
 
 ### 1. Assembler Dashboard

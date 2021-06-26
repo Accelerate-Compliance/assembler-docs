@@ -1,4 +1,4 @@
-### Versioning method
+# Versioning method
 
 The Assembler platform is built to enable application owners to version each application environment separately. 
 
